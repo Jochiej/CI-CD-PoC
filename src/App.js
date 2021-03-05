@@ -1,12 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
+export const App = () => {
   return (
     <div>
       <h1>Welcome to Padhop!</h1>
     </div>
   );
-}
-
-export default App;
+};
